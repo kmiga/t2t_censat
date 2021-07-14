@@ -21,4 +21,7 @@ Assembly issues and known heterozygous sites:
 
 https://github.com/marbl/CHM13-issues
 
+NTRprism scripts
+http://public.gi.ucsc.edu/~khmiga/NTRprism_v0.1.zip
+
 
